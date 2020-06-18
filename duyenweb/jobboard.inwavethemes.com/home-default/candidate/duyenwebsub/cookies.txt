@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+jobboard.inwavethemes.com	TRUE	/	FALSE	1999999999	PHPSESSID	3ec978685201af4de55edfffb27e4c4c
+.inwavethemes.com	TRUE	/	FALSE	1999999999	__cfduid	d3f0ed67c83d825f6f425e0a0f81f3c0e1592480862
+static-jobboard.inwavethemes.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
